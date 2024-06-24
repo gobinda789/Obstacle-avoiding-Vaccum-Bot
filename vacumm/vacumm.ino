@@ -1,6 +1,4 @@
-/*obstacle avoiding, Bluetooth control, voice control robot car.
-   https://srituhobby.com
-*/
+
 #include <Servo.h>
 #include <AFMotor.h>
 #define Echo A0
